@@ -6,5 +6,3 @@ Dependencies:
 	maven: https://maven.apache.org/
 		Maven in five minutes: https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 		mvn archetype:generate -DgroupId=br.com.jbossstats.app -DartifactId=jbossstats -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
-	
-		
